@@ -50,7 +50,7 @@
       </div>
     </div>
     <div class="footer">
-      <p class="text-muted credit">Anthony Guevara<br/><a href="./docs/doc.html">Documentation</p>
+      <p class="text-muted credit">Anthony Guevara<br/><a href="./docs/doc.html">Documentation</a>
     </div>
   </body>
 </html>
